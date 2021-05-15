@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/anidotnet" target="blank"><img src="https://img.shields.io/twitter/follow/anidotnet?logo=twitter&style=for-the-badge" alt="anidotnet" /></a> </p>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
 - 🔭 I’m currently working on [Nitrite Database](https://github.com/nitrite/)
 
 - 🌱 I’m currently learning **Flutter**
