@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **anindya@dizitart.com**
 
+- 📝 I write occasional blog posts on [medium](https://medium.com/@anidotnet)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/anidotnet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="anidotnet" height="30" width="40" /></a>
